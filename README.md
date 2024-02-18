@@ -2,11 +2,13 @@
 
 Description:  This is the read me file for the sixth Challenge assignment for the Web Development Boot Camp at Northwestern.  Requirements implemented and met are found below in grading requirements.
 
-GitHub Web Page URL
-https://tonypdoanuchicago.github.io/Challenge_9/Develop/
+GitHub Video URL
+[![Watch the video](https://github.com/tonypdoanuchicago/Challenge_9/blob/main/Challenge_9_Video.mov)](https://github.com/tonypdoanuchicago/Challenge_9/blob/main/Challenge_9_Video.mov)
+
 
 GitHub Repo
 https://github.com/tonypdoanuchicago/Challenge_9
+
 
 Web Page Screenshot
 ![alt text](https://github.com/tonypdoanuchicago/Challenge_9/blob/main/Challenge_9_Screenshot.png)](https://github.com/tonypdoanuchicago/Challenge_9/blob/main/Challenge_9_Screenshot.png?raw=true)

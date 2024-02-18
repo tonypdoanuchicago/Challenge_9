@@ -1,22 +1,22 @@
-#How do you get a web dev job in 6 months?
+#How do I get a 6 figure job?
 
-##Attending the Northwestern University Web Dev Bootcamp
+##How to make more money......
 
 ## Description
 
-Learn intensively for 6 months for a six figure job
+Go to NW University Boot Camp
 
 ## Problem
 
-I currently want to make more money.
+I need to make more money
 
 ## Solution
 
-Do the boot camp and learn the skills.
+Learn from Ron
 
 ## Learnings
 
-3 hours for three days per week plus challenges and project
+Learn software engineering
 
 ## Purpose
 
