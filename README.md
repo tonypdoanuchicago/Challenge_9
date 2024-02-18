@@ -3,7 +3,7 @@
 Description:  This is the read me file for the ninth Challenge assignment for the Web Development Boot Camp at Northwestern.  Requirements implemented and met are found below in grading requirements.
 
 GitHub Video URL
-<video src='https://github.com/tonypdoanuchicago/Challenge_9/blob/main/Challenge_9_Video.mov' width=180/>
+<a href='https://github.com/tonypdoanuchicago/Challenge_9/blob/main/Challenge_9_Video.mov' />
 
 
 GitHub Repo
