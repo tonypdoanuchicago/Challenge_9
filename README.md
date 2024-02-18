@@ -1,9 +1,9 @@
-# Challenge 6 Read Me
+# Challenge 9 Read Me
 
-Description:  This is the read me file for the sixth Challenge assignment for the Web Development Boot Camp at Northwestern.  Requirements implemented and met are found below in grading requirements.
+Description:  This is the read me file for the ninth Challenge assignment for the Web Development Boot Camp at Northwestern.  Requirements implemented and met are found below in grading requirements.
 
 GitHub Video URL
-[![Watch the video](https://github.com/tonypdoanuchicago/Challenge_9/blob/main/Challenge_9_Video.mov)](https://github.com/tonypdoanuchicago/Challenge_9/blob/main/Challenge_9_Video.mov)
+<video src='https://github.com/tonypdoanuchicago/Challenge_9/blob/main/Challenge_9_Video.mov' width=180/>
 
 
 GitHub Repo
