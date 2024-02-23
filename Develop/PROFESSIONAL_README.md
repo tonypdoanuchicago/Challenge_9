@@ -1,24 +1,29 @@
-#How do I get a 6 figure job?
+#Learn More
 
-##How to make more money......
+##How to manage time to learn more.
 
 ## Description
 
-Go to NW University Boot Camp
+Make the most of learning time.
 
 ## Problem
 
-I need to make more money
+How to use time wisely.
 
 ## Solution
 
-Learn from Ron
+Learn from others.
 
 ## Learnings
 
-Learn software engineering
+Manage and apply time.
 
 ## Purpose
 
 Professional Development
 
+| TO DO Num     | Item          | Due Date  |
+| ------------- |:-------------:| ---------:|
+| 1             | JavaScript    | May 1st   |
+| 2             | HTML          | May 15th  |
+| 3             | CSS           | May 31st  |

@@ -59,6 +59,12 @@ function init() {
     dataString += "## Learnings\n\n" + answers.answerLearn + "\n\n";
     dataString += "## Purpose\n\n" + answers.answerPurpose + "\n\n";
 
+    dataString += "| TO DO Num     | Item          | Due Date  |\n";
+    dataString += "| ------------- |:-------------:| ---------:|\n";
+    dataString += "| 1             | JavaScript    | May 1st   |\n";
+    dataString += "| 2             | HTML          | May 15th  |\n";
+    dataString += "| 3             | CSS           | May 31st  |\n";    
+
     writeToFile("PROFESSIONAL_README.md", dataString);
   })
   .catch((error) => {
